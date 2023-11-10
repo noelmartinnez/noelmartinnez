@@ -12,7 +12,7 @@ Buenas, soy Noel y me estoy formando como Ingeniero Técnico Informático en la 
 
 
 # 📄 Certificates:
-[![SEO](https://img.shields.io/badge/Google%20Drive-%234EA94B.svg?logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing) [![JavaScript](https://img.shields.io/badge/Google%20Drive-%234EA94B.svg?logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1ToVp3kXaBW32h7LiACkwTNXomqq5mf3E/view?usp=sharing) 
+[![SEO](https://img.shields.io/badge/SEO-%234EA94B.svg)](https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing) [![JavaScript](https://img.shields.io/badge/Google%20Drive-%234EA94B.svg?logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1ToVp3kXaBW32h7LiACkwTNXomqq5mf3E/view?usp=sharing) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noelmartinnez&icon=1&color=3)](https://visitcount.itsvg.in)
