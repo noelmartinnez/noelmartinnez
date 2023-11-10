@@ -1,5 +1,5 @@
 # 💫 About Me:
-Buenas, soy Noel y me estoy formando como técnico informático en la Universidad de Alicante.
+Buenas, soy Noel y me estoy formando como Ingeniero Técnico Informático en la Universidad de Alicante.
 
 
 ## 🌐 Socials:
