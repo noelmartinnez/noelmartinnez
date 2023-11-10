@@ -3,7 +3,7 @@ Buenas, soy Noel y me estoy formando como Ingeniero Técnico en Informática en 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/noelmartinnez) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/18bB55rq6mSFvALVaU8Z3Cwpjxk0aDFrY/view?usp=sharing) [![InfoJobs](https://img.shields.io/badge/InfoJobs-%230077B5.svg?logo=InfoJobs&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![InfoJobs](https://img.shields.io/badge/InfoJobs-%230077B5.svg?logo=InfoJobs&logoColor=white)](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=2072063760411407905) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/noelmartinnez) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/18bB55rq6mSFvALVaU8Z3Cwpjxk0aDFrY/view?usp=sharing)
 
 
 # 💻 Tech Stack:
