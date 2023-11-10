@@ -11,7 +11,8 @@ Buenas, soy Noel y me estoy formando como Ingeniero Técnico en Informática en 
 
 
 # 📄 Certificates:
-[![SEO](https://img.shields.io/badge/SEO-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing) [![JavaScript](https://img.shields.io/badge/JavaScript-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1ToVp3kXaBW32h7LiACkwTNXomqq5mf3E/view?usp=sharing)
+[![SEO](https://img.shields.io/badge/SEO-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing) [![JavaScript](https://img.shields.io/badge/JavaScript-%234EA94B.svg?style=for-the-badge)](
+https://app.edutin.com/verify/9367931)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noelmartinnez&icon=1&color=3)](https://visitcount.itsvg.in)
