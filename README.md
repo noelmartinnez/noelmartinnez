@@ -1,9 +1,9 @@
 # 💫 About Me:
-Buenas, soy Noel y me estoy formando como Ingeniero Técnico Informático en la Universidad de Alicante. [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1Mz5h1oC2UuImWptbdZLIhZNXTLaMvq8q/view?usp=sharing)
+Buenas, soy Noel y me estoy formando como Ingeniero Técnico Informático en la Universidad de Alicante. 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/noelmartinnez)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/noelmartinnez) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1Mz5h1oC2UuImWptbdZLIhZNXTLaMvq8q/view?usp=sharing)
 
 
 # 💻 Tech Stack:
@@ -12,8 +12,6 @@ Buenas, soy Noel y me estoy formando como Ingeniero Técnico Informático en la 
 
 # 📄 Certificates:
 [![SEO](https://img.shields.io/badge/SEO-%234EA94B.svg)](https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing) [![JavaScript](https://img.shields.io/badge/JavaScript-%234EA94B.svg)](https://drive.google.com/file/d/1ToVp3kXaBW32h7LiACkwTNXomqq5mf3E/view?usp=sharing)
-<a href="https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing" target="_blank"><img alt="SEO" src="https://img.shields.io/badge/SEO-%234EA94B.svg"></a>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noelmartinnez&icon=1&color=3)](https://visitcount.itsvg.in)
