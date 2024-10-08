@@ -1,7 +1,28 @@
 # 💫 About Me:
-🌱 Formado como Ingeniero Técnico en Informática en la Universidad de Alicante.<br>💬 Si quieres contactar conmigo puedes mandarme un email.<br>📫 Email: noelmartinezpomares@gmail.com<br>⚡ Apasionado por el deporte y amante de los animales.
+🌱 Formado como Ingeniero Técnico en Informática en la Universidad de Alicante.<br>💬 Si quieres contactar conmigo puedes mandarme un email.<br>📫 Email: noelmartinezpomares@gmail.com<br>⚡ Apasionado por el deporte y amante de los animales.  
 
-## 🌐 Socials:
+# 💼 Current Job:
+
+Actualmente trabajando como Técnico de Software en Altia Consultores S.A.
+
+## PROYECTO HUNTERS
+Gestión de infraestructura basada en Kubernetes, integración entre sistemas, investigación de nuevas tecnologías, desarrollos principalmente de backend, identificación y corrección de errores.
+
+
+### TAREAS REALIZADAS
+* Gestión y desarrollo de arquitectura de microservicios basada en Java/Springboot.
+* Programación y despliegue de aplicaciones de contenedores Docker en Kubernetes.
+* Gestión de procesos de negocio BMP con Camunda.
+* Integración continua con Jenkins. 
+
+### TECNOLOGÍAS
+* Infraestructura: Docker, Kubernetes.
+* Microservicios: Java, Springboot, JHipster.
+* Base de datos: PostgreSQL, Oracle SQL Developer.
+* Integración continua: Jenkins.
+* Business Process Management: Camunda.
+
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![InfoJobs](https://img.shields.io/badge/InfoJobs-%230077B5.svg?logo=InfoJobs&logoColor=white)](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=2072063760411407905) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1g-BNOosIm4v5k-eI_cynV1qRWpV9xKWg/view?usp=sharing)
 
 
