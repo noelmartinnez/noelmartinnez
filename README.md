@@ -16,7 +16,7 @@ Gestión de infraestructura basada en Kubernetes, integración entre sistemas, i
 * Integración continua con Jenkins. 
 
 ### Tecnologías
-* Infraestructura: Docker, Kubernetes.
+* <span style="color:red">Infraestructura:</span> Docker, Kubernetes.
 * Microservicios: Java, Springboot, JHipster.
 * Base de datos: PostgreSQL, Oracle SQL Developer.
 * Integración continua: Jenkins.
