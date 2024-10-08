@@ -5,17 +5,17 @@
 
 Actualmente trabajando como Técnico de Software en Altia Consultores S.A.
 
-## PROYECTO HUNTERS
+## Proyecto HUNTERS
 Gestión de infraestructura basada en Kubernetes, integración entre sistemas, investigación de nuevas tecnologías, desarrollos principalmente de backend, identificación y corrección de errores.
 
 
-### TAREAS REALIZADAS
+### Tareas realizadas
 * Gestión y desarrollo de arquitectura de microservicios basada en Java/Springboot.
 * Programación y despliegue de aplicaciones de contenedores Docker en Kubernetes.
 * Gestión de procesos de negocio BMP con Camunda.
 * Integración continua con Jenkins. 
 
-### TECNOLOGÍAS
+### Tecnologías
 * Infraestructura: Docker, Kubernetes.
 * Microservicios: Java, Springboot, JHipster.
 * Base de datos: PostgreSQL, Oracle SQL Developer.
@@ -23,7 +23,7 @@ Gestión de infraestructura basada en Kubernetes, integración entre sistemas, i
 * Business Process Management: Camunda.
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![InfoJobs](https://img.shields.io/badge/InfoJobs-%230077B5.svg?logo=InfoJobs&logoColor=white)](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=2072063760411407905) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1g-BNOosIm4v5k-eI_cynV1qRWpV9xKWg/view?usp=sharing)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1v71zqGorg4xiq9N_u5Fs2chnRbvNI_Sd/view?usp=sharing)
 
 
 # 💻 Tech Stack:
@@ -35,7 +35,7 @@ Gestión de infraestructura basada en Kubernetes, integración entre sistemas, i
 
 # 📄 Certificates:
 [![SEO](https://img.shields.io/badge/SEO-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing) [![JavaScript](https://img.shields.io/badge/JavaScript-%234EA94B.svg?style=for-the-badge)](
-https://app.edutin.com/verify/9367931)
+https://app.edutin.com/verify/9367931) [![English](https://img.shields.io/badge/SEO-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1EPXq2uUIQjOEHVtYS5Qlg2KIqLFD8fXT/view?usp=sharing) [![Valenciano](https://img.shields.io/badge/SEO-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1QExdkF5w5sFMJKeogAygoR8o63DvqmFM/view?usp=sharing)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noelmartinnez&icon=1&color=3)](https://visitcount.itsvg.in)
