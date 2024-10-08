@@ -6,7 +6,7 @@
 Actualmente trabajando como Técnico de Software en Altia Consultores S.A.
 
 ## Proyecto HUNTERS
-Gestión de infraestructura basada en Kubernetes, integración entre sistemas, investigación de nuevas tecnologías, desarrollos principalmente de backend, identificación y corrección de errores.
+Gestión y desarrollo de infraestructura basada en Kubernetes, integración entre sistemas, investigación de nuevas tecnologías, desarrollos principalmente de backend, identificación y corrección de errores.
 
 
 ### Tareas realizadas
