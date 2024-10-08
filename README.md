@@ -36,7 +36,7 @@ Gestión de infraestructura basada en Kubernetes, integración entre sistemas, i
 # 📄 Certificates:
 [![SEO](https://img.shields.io/badge/SEO-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing) [![JavaScript](https://img.shields.io/badge/JavaScript-%234EA94B.svg?style=for-the-badge)](
 https://app.edutin.com/verify/9367931) [![English](https://img.shields.io/badge/English-%234EA94B.svg?style=for-the-badge
-)](https://drive.google.com/file/d/1EPXq2uUIQjOEHVtYS5Qlg2KIqLFD8fXT/view?usp=sharing) [![Valenciano](https://img.shields.io/badge/Valencià-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1QExdkF5w5sFMJKeogAygoR8o63DvqmFM/view?usp=sharing)
+)](https://drive.google.com/file/d/1EPXq2uUIQjOEHVtYS5Qlg2KIqLFD8fXT/view?usp=sharing) [![Valenciano](https://img.shields.io/badge/Valenciano-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1QExdkF5w5sFMJKeogAygoR8o63DvqmFM/view?usp=sharing)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noelmartinnez&icon=1&color=3)](https://visitcount.itsvg.in)
