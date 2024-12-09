@@ -25,7 +25,6 @@ Gestión y desarrollo de infraestructura basada en Kubernetes, integración entr
 ### Otros
 * GitFlow
 * Mockito
-* Jenkins
 * Argo
 * Lombok
 * SonarLint
