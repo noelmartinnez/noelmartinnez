@@ -22,6 +22,15 @@ Gestión y desarrollo de infraestructura basada en Kubernetes, integración entr
 * Integración continua: Jenkins.
 * Business Process Management: Camunda.
 
+### Otros
+* GitFlow
+* Mockito
+* Jenkins
+* Argo
+* Lombok
+* SonarLint
+* CI/CD
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1N5zohwW3XQ4IaGMpdQaHH43mUzwUo479/view?usp=sharing)
 
