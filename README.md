@@ -17,7 +17,7 @@ Gestión y desarrollo de infraestructura basada en Kubernetes, integración entr
 
 ### Tecnologías
 * Infraestructura: Docker, Kubernetes.
-* Microservicios: Java, Springboot, JHipster.
+* Microservicios: Java, Springboot.
 * Base de datos: PostgreSQL, Oracle SQL Developer.
 * Integración continua: Jenkins.
 * Business Process Management: Camunda.
