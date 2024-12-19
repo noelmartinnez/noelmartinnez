@@ -23,7 +23,7 @@ Gestión y desarrollo de infraestructura basada en Kubernetes, integración entr
 * Business Process Management: Camunda.
 
 ### Otros
-* GitFlow
+* Utilización de GitFlow para estructurar y gestionar el desarrollo de la infraestructura.
 * Mockito
 * Argo
 * Lombok
