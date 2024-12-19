@@ -24,7 +24,7 @@ Gestión y desarrollo de infraestructura basada en Kubernetes, integración entr
 
 ### Otros
 * Utilización de GitFlow para estructurar y gestionar el desarrollo de la infraestructura.
-* Mockito
+* Testing de componentes y servicios utilizando Mockito.
 * Argo
 * Lombok
 * SonarLint
