@@ -12,7 +12,7 @@ Gestión y desarrollo de infraestructura basada en Kubernetes, integración entr
 ### Tareas realizadas
 * Gestión y desarrollo de arquitectura de microservicios basada en Java 11/17 y Spring Boot 2.2.7.
 * Programación y despliegue de aplicaciones de contenedores Docker en Kubernetes.
-* Gestión de procesos de negocio BMP con Camunda.
+* Gestión de procesos de negocio utilizando Camunda BPM.
 * Gestión de procesos de CI/CD con Jenkins, Harbor y Argo.
 
 ### Tecnologías
