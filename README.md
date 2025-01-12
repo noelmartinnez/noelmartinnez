@@ -62,9 +62,6 @@ Gestión y desarrollo de infraestructura basada en Kubernetes, integración entr
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmartinnez&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
 # 📄 Certificates:
 [![SEO](https://img.shields.io/badge/SEO-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing) [![JavaScript](https://img.shields.io/badge/JavaScript-%234EA94B.svg?style=for-the-badge)](
 https://app.edutin.com/verify/9367931) [![Jenkins](https://img.shields.io/badge/Valenciano-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1khS0DbdeQ73pGXkQ4x4m86L-P4C2nVIm/view?usp=sharing) 
@@ -72,6 +69,8 @@ https://app.edutin.com/verify/9367931) [![Jenkins](https://img.shields.io/badge/
 # 📄 Languages
 [![English](https://img.shields.io/badge/English-%234EA94B.svg?style=for-the-badge
 )](https://drive.google.com/file/d/1EPXq2uUIQjOEHVtYS5Qlg2KIqLFD8fXT/view?usp=sharing) [![Valenciano](https://img.shields.io/badge/Valenciano-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1QExdkF5w5sFMJKeogAygoR8o63DvqmFM/view?usp=sharing)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmartinnez&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noelmartinnez&icon=1&color=3)](https://visitcount.itsvg.in)
