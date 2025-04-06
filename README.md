@@ -8,9 +8,9 @@
 Actualmente formo parte de un equipo que desarrolla soluciones de extracción de datos en proyectos de alta sensibilidad y confidencialidad. Mi rol se centra en diseñar, desarrollar y mantener módulos de software utilizando principalmente Java 17, complementado con Python para tareas específicas.
 
 Entre mis responsabilidades destacan:
-     * Desarrollo de código robusto y seguro: Implementación de procesos de extracción de información, utilizando técnicas avanzadas basadas en expresiones regulares.
-     * Control y aseguramiento de la calidad: Uso de herramientas como SonarQube para el análisis estático y la mejora continua del código.
-     * Gestión en entornos Unix: Ejecución y administración de comandos en sistemas Ubuntu, garantizando un entorno de trabajo seguro y eficiente.
+* Desarrollo de código robusto y seguro: Implementación de procesos de extracción de información, utilizando técnicas avanzadas basadas en expresiones regulares.
+* Control y aseguramiento de la calidad: Uso de herramientas como SonarQube para el análisis estático y la mejora continua del código.
+* Gestión en entornos Unix: Ejecución y administración de comandos en sistemas Ubuntu, garantizando un entorno de trabajo seguro y eficiente.
 
 Toda esta actividad se realiza bajo estrictos protocolos de seguridad y confidencialidad, en el marco de proyectos estratégicos y sensibles.
 
