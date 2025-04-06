@@ -3,32 +3,25 @@
 
 # 💼 Current Job:
 
-Actualmente trabajando como Técnico de Software en Altia Consultores S.A.
+## Programador Junior en Fundamentia Business Consulting, S.L.
 
-## Proyecto HUNTERS
-Gestión y desarrollo de infraestructura basada en Kubernetes, integración entre sistemas, investigación de nuevas tecnologías, desarrollos principalmente de backend, identificación y corrección de errores.
+Actualmente formo parte de un equipo que desarrolla soluciones de extracción de datos en proyectos de alta sensibilidad y confidencialidad. Mi rol se centra en diseñar, desarrollar y mantener módulos de software utilizando principalmente Java 17, complementado con Python para tareas específicas.
 
+Entre mis responsabilidades destacan:
 
-### Tareas realizadas
-* Gestión y desarrollo de arquitectura de microservicios basada en Java 11/17 y Spring Boot 2.2.7.
-* Despliegue de aplicaciones en contenedores Docker sobre Kubernetes.
-* Gestión de procesos de negocio (BMP) utilizando Camunda.
-* Gestión de procesos de CI/CD con Jenkins, Harbor y Argo.
+ • Desarrollo de código robusto y seguro: Implementación de procesos de extracción de información, 
+ utilizando técnicas avanzadas basadas en expresiones regulares.
 
-### Tecnologías
-* Infraestructura: Docker, Kubernetes.
-* Microservicios: Java, Spring Boot.
-* Base de datos: PostgreSQL, Oracle SQL Developer.
-* CI/CD: Jenkins, Harbor, Argo.
-* Business Process Management: Camunda.
+ • Control y aseguramiento de la calidad: Uso de herramientas como SonarQube para el análisis estático 
+ y la mejora continua del código.
 
-### Otros
-* Utilización de GitFlow para estructurar y gestionar el desarrollo de la infraestructura.
-* Testing de componentes y servicios utilizando Mockito.
-* Implementación de buenas prácticas en el desarrollo utilizando Lombok para reducir el código boilerplate y SonarLint para garantizar la calidad estática del código.
+ • Gestión en entornos Unix: Ejecución y administración de comandos en sistemas Ubuntu, garantizando 
+ un entorno de trabajo seguro y eficiente.
+
+Toda esta actividad se realiza bajo estrictos protocolos de seguridad y confidencialidad, en el marco de proyectos estratégicos y sensibles.
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1IRImqzY2omKX5Rym1tHw88UxBNY06omn/view?usp=sharing)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-martinez-5a6703230) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1BKFovLxmy1gElkh9gG4WySx0WftrrM_p/view?usp=drive_link)
 
 
 # 💻 Tech Stack:
