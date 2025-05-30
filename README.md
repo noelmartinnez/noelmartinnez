@@ -1,9 +1,9 @@
 # 💫 About Me:
-🌱 Formado como Ingeniero Técnico en Informática en la Universidad de Alicante.<br>💬 Si quieres contactar conmigo puedes mandarme un email.<br>📫 Email: noelmartinezpomares@gmail.com<br>🌏 También puedes visitar mi [página web personal](https://www.noelmartinez.es) <br>⚡ Apasionado por el deporte y amante de los animales.  
+🌱 Formado como Ingeniero Informático en la Universidad de Alicante.<br>💬 Si quieres contactar conmigo puedes mandarme un email.<br>📫 Email: noelmartinezpomares@gmail.com<br>🌏 También puedes visitar mi [página web personal](https://www.noelmartinez.es) <br>⚡ Apasionado por el deporte y amante de los animales.  
 
 # 💼 Current Job:
 
-## Programador Junior en Fundamentia Business Consulting, S.L.
+## Software Developer en Fundamentia Business Consulting, S.L.
 
 Actualmente formo parte de un equipo que desarrolla soluciones de extracción de datos en proyectos de alta sensibilidad y confidencialidad. Mi rol se centra en diseñar, desarrollar y mantener módulos de software utilizando principalmente Java 17, complementado con Python para tareas específicas.
 
@@ -51,7 +51,7 @@ Toda esta actividad se realiza bajo estrictos protocolos de seguridad y confiden
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 # 📄 Certificates:
-[![SEO](https://img.shields.io/badge/SEO-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1CrLxogiIgwwyfJIJra0Ox_7yqM7Jorux/view?usp=sharing) [![JavaScript](https://img.shields.io/badge/JavaScript-%234EA94B.svg?style=for-the-badge)](
+[![JavaScript](https://img.shields.io/badge/JavaScript-%234EA94B.svg?style=for-the-badge)](
 https://app.edutin.com/verify/9367931) [![Jenkins](https://img.shields.io/badge/Jenkins-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1khS0DbdeQ73pGXkQ4x4m86L-P4C2nVIm/view?usp=sharing) 
 
 # 📄 Languages
