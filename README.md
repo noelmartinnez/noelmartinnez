@@ -1,11 +1,11 @@
 # Noel Martínez — Backend & Infra Engineer
-Soy ingeniero de software especializado en **arquitecturas de microservicios**, **integración de sistemas de misión crítica** y **automatización**. Convierto requisitos complejos en soluciones **robustas, seguras y escalables**. Trabajo cómodo en entornos regulados y de alta sensibilidad (banca, sector público).
+Soy ingeniero de software especializado en **arquitecturas de microservicios**, **integración de sistemas de misión crítica** y **automatización**. Convierto requisitos complejos en soluciones **robustas, seguras y escalables**, incorporando automatización (**RPA**) para aporta valor al negocio. Trabajo cómodo en entornos regulados y de alta sensibilidad (banca, sector público).
 
-- 🔧 **Stack core:** Java, Spring Boot, Apache Kafka, Camunda (BPM), Docker, Kubernetes
-- 🚀 **DevOps:** Jenkins, Harbor, Argo CD, CI/CD, SonarQube/SonarLint
-- 🧰 **Automatización:** JavaScript - Node.js (Selenium/Puppeteer), Python
-- 🗄️ **Datos:** MySQL, PostgreSQL, Oracle DB
-- 🛡️ **L3 / RCA:** diagnóstico de raíz en sistemas distribuidos, hardening y calidad
+- 🔧 **Stack core**: Java, Spring Boot, Apache Kafka, Camunda (BPM), Docker, Kubernetes
+- 🚀 **DevOps**: Jenkins, Harbor, Argo CD, CI/CD, SonarQube/SonarLint
+- 🧰 **Automatización** (**RPA**): JavaScript - Node.js (Selenium/Puppeteer), Python
+- 🗄️ **Datos**: MySQL, PostgreSQL, Oracle DB
+- 🛡️ **L3** / **RCA**: diagnóstico de raíz en sistemas distribuidos, hardening y calidad
 
 
 ## 💼 Actualmente: Software Developer @ Fundamentia
@@ -15,8 +15,8 @@ Proyectos estratégicos de extracción/automatización de datos en entornos **co
 **Responsabilidades:**
 - **Migración** de Java 8 → **Java 17** y diseño/implantación de **microservicios** con Spring Boot.
 - **Mensajería** con **Apache Kafka** (flujos internos/externos).
-- **Automatización** con **JavaScript** - **Node.js (Selenium, Puppeteer)** para pipelines y casos de negocio.
-- **SFTP** en Java, contenedores **Docker**, QA manual/semi-automática.
+- **Automatización** con robot (**RPA**) usando **JavaScript** - **Node.js (Selenium, Puppeteer)** para pipelines y casos de negocio.
+- **SFTP** en Java, contenedores **Docker**.
 - **Persistencia** con **MySQL** y optimización de acceso a datos.
 - **Calidad**: análisis estático con **SonarQube** y buenas prácticas de testing.
 
@@ -36,7 +36,7 @@ Proyectos estratégicos de extracción/automatización de datos en entornos **co
 
 
 ## 🌐 Social
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noelmartinezpomares) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1C6IAESWCZO4_2gHXtKBqp175u7-vDcGK/view?usp=drive_link)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noelmartinezpomares) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1Tc_4T42k7zudK9QvJHQdz8HfYtUprjKZ/view?usp=sharing)
 
 
 ## 📜 Certificados
