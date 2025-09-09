@@ -16,7 +16,7 @@ Proyectos estratégicos de extracción/automatización de datos en entornos **co
 - **Migración** de Java 8 → **Java 17** y diseño/implantación de **microservicios** con Spring Boot.
 - **Mensajería** con **Apache Kafka** (flujos internos/externos).
 - **Automatización** con robot (**RPA**) usando **JavaScript** - **Node.js (Selenium, Puppeteer)** para pipelines y casos de negocio.
-- **SFTP** en Java, contenedores **Docker**.
+- **FTP** en Java, contenedores **Docker**.
 - **Persistencia** con **MySQL** y optimización de acceso a datos.
 - **Calidad**: análisis estático con **SonarQube** y buenas prácticas de testing.
 
