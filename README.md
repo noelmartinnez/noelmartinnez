@@ -19,6 +19,7 @@ Proyectos estratégicos de extracción/automatización de datos en entornos **co
 - **FTP** en Java, contenedores **Docker**.
 - **Persistencia** con **MySQL** y optimización de acceso a datos.
 - **Calidad**: análisis estático con **SonarQube** y buenas prácticas de testing.
+- **Automatización** de tareas específicas mediante **Python**.
 
 > Trabajo con protocolos estrictos de seguridad y confidencialidad.
 
@@ -36,7 +37,7 @@ Proyectos estratégicos de extracción/automatización de datos en entornos **co
 
 
 ## 🌐 Social
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noelmartinezpomares) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1Tc_4T42k7zudK9QvJHQdz8HfYtUprjKZ/view?usp=sharing)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noelmartinezpomares) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1adDj3P7cAvuuZOEYupoS5uja583pFwOk/view?usp=sharing)
 
 
 ## 📜 Certificados
