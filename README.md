@@ -1,21 +1,27 @@
 # Noel Martínez — Backend & Infra Engineer
-Soy ingeniero de software especializado en **arquitecturas de microservicios**, **integración de sistemas de misión crítica** y **automatización**. Convierto requisitos complejos en soluciones **robustas, seguras y escalables**, incorporando automatización (**RPA**) para aporta valor al negocio. Trabajo cómodo en entornos regulados y de alta sensibilidad (banca, sector público).
+**Ingeniero de Software** especializado en **QA Automation** y desarrollo **backend**, con experiencia en la creación de arquitecturas de microservicios distribuidos y la automatización de pruebas y flujos web en entornos críticos. Transformo requerimientos complejos en soluciones robustas, seguras y escalables, aplicando prácticas de calidad, testing automatizado y metodologías ágiles (**SCRUM**).
 
-- 🔧 **Stack core**: Java, Spring Boot, Apache Kafka, Camunda (BPM), Docker, Kubernetes
-- 🚀 **DevOps**: Jenkins, Harbor, Argo CD, CI/CD, SonarQube/SonarLint
-- 🧰 **Automatización** (**RPA**): JavaScript - Node.js (Selenium/Puppeteer), Python
+Experiencia en proyectos estratégicos para el sector **bancario** (BBVA, Banco Santander, OPPLUS) y **estatal** (ANCERT).
+
+
+- 🔧 **Backend**: Java, Spring Boot, Apache Kafka, Camunda (BPM)
+- 🚀 **DevOps**: Docker, Kubernetes, Jenkins, Harbor, Argo CD, CI/CD, SonarQube/SonarLint
+- 🧰 **QA & Automatización**: JavaScript (Node.js) con Selenium y Puppeteer, Mocha + Allure Report
+- 🔥 **Scripting**: Python
 - 🗄️ **Datos**: MySQL, PostgreSQL, Oracle DB
 - 🛡️ **L3** / **RCA**: diagnóstico de raíz en sistemas distribuidos, hardening y calidad
 
 
-## 💼 Actualmente: Software Developer @ Fundamentia
+## 💼 Actualmente: Software Engineer @ Fundamentia
 
 Proyectos estratégicos de extracción/automatización de datos en entornos **confidenciales**.
 
 **Responsabilidades:**
 - **Migración** de Java 8 → **Java 17** y diseño/implantación de **microservicios** con Spring Boot.
 - **Mensajería** con **Apache Kafka** (flujos internos/externos).
-- **Automatización** con robot (**RPA**) usando **JavaScript** - **Node.js (Selenium, Puppeteer)** para pipelines y casos de negocio.
+- **Automatización de pruebas y procesos web** con **Selenium / Puppeteer (Node.js)**, validando miles de escenarios y registros.
+- Integración de **Allure Report + Mocha** para reporting automatizado.
+- Procesamiento de información **XML → estructuras JSON/diccionarios** para carga en formularios web.  
 - **FTP** en Java, contenedores **Docker**.
 - **Persistencia** con **MySQL** y optimización de acceso a datos.
 - **Calidad**: análisis estático con **SonarQube** y buenas prácticas de testing.
@@ -28,7 +34,7 @@ Proyectos estratégicos de extracción/automatización de datos en entornos **co
 
 - Arquitectura de **microservicios** (Java 17, Spring Boot 2.2.x), **Docker** y **Kubernetes**.
 - **BPM** con Camunda; **CI/CD** con Jenkins, Harbor y **Argo CD**.
-- PostgreSQL/Oracle DB; SonarLint; Mockito; **resolución L3** en entornos distribuidos.
+- PostgreSQL/Oracle DB; SonarLint; Mockito; JUnit; **resolución L3** en entornos distribuidos.
 
 
 ## 🛠️ Tech Stack 
@@ -37,7 +43,7 @@ Proyectos estratégicos de extracción/automatización de datos en entornos **co
 
 
 ## 🌐 Social
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noelmartinezpomares) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1JShOBA20_glWqE0E_dIrqJWQ8TboYFvK/view?usp=sharing)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noelmartinezpomares) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1eDf79IwCGTvZhOUM-ITjRzYbT5GeNMTv/view?usp=sharing)
 
 
 ## 📜 Certificados
