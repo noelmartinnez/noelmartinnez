@@ -9,16 +9,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noelmartinnez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noelmartinezpomares) [![Curriculum](https://img.shields.io/badge/Curriculum-%234EA94B.svg)](https://drive.google.com/file/d/1zRXq0s4YSDOt9r_N_tHFGsa4Cep2HWnR/view?usp=sharing)
 
 
-## 📜 Certificados
-[![JavaScript](https://img.shields.io/badge/JavaScript-%234EA94B.svg?style=for-the-badge)](
-https://app.edutin.com/verify/9367931) [![Jenkins](https://img.shields.io/badge/Jenkins-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1khS0DbdeQ73pGXkQ4x4m86L-P4C2nVIm/view?usp=sharing) 
-
-
-## 📜 Idiomas
-[![English](https://img.shields.io/badge/English-%234EA94B.svg?style=for-the-badge
-)](https://drive.google.com/file/d/1EPXq2uUIQjOEHVtYS5Qlg2KIqLFD8fXT/view?usp=sharing) [![Valenciano](https://img.shields.io/badge/Valenciano-%234EA94B.svg?style=for-the-badge)](https://drive.google.com/file/d/1QExdkF5w5sFMJKeogAygoR8o63DvqmFM/view?usp=sharing)
-
-
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmartinnez&theme=dark&hide_border=true&layout=compact)
 ![Streak](https://streak-stats.demolab.com?user=noelmartinnez&theme=dark&hide_border=true)
