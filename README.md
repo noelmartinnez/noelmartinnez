@@ -1,39 +1,4 @@
-# Noel Martínez — Backend & Infra Engineer
-**Ingeniero de Software** especializado en desarrollo **backend** y **QA Automation**, con experiencia en el diseño de arquitecturas distribuidas de microservicios y en la creación de entornos de despliegue automatizados bajo estándares de alta disponibilidad y seguridad.
-
-He participado en proyectos estratégicos para el sector **bancario** y **estatal** (BBVA, Banco Santander, OPPLUS, ANCERT), diseñando soluciones escalables, resilientes y orientadas a resultados.
-
-
-## 💼 Actualmente: Software Engineer @ Fundamentia
-
-**Responsabilidades:**
-- Diseño e implementación de microservicios con **Java** (v17) y **Spring Boot** para entornos bancarios.
-- **Migración** de proyecto Java de versión 8 a 17, optimizando compatibilidad y dependencias.
-- Procesamiento, lectura y transformación de datos en formato **XML** y **JSON**.
-- Automatización de pruebas funcionales y de regresión con **Selenium** y **Puppeteer** (**Node.js**).
-- Validación de escenarios (+1000 pruebas) con **Allure Report** y **Mocha**, generando reportes automáticos.
-- Integración de **Apache Kafka** como sistema de mensajería para flujos internos y externos.
-- Uso de expresiones regulares (**RegEx**) para la extracción y normalización de datos estructurados.
-- Transferencia de archivos mediante **FTP** en Java y herramientas complementarias como **FileZilla**.
-- Utilización de **MySQL** para el almacenamiento y recuperación eficiente de datos dentro del sistema.
-- Contenerización con **Docker** para entornos de desarrollo y despliegue.
-
-> Trabajo con protocolos estrictos de seguridad y confidencialidad.
-
-
-## 🧩 Antes: Backend & Infrastructure Engineer @ Altia (Proyecto HUNTERS)
-
-**Responsabilidades:**
-- Diseño y desarrollo de microservicios en **Java** (v17), **Spring Boot** (v2.2.7) y **Spring Cloud**.
-- Implementación de servicios **REST** y comunicación entre microservicios con **Feign Client**.
-- Creación de **APIs RESTful**, incluyendo controladores, servicios y DTOs.
-- Uso de **Postman** para el diseño, prueba y validación de endpoints REST.
-- Despliegue y orquestación de contenedores **Docker** en clústeres de **Kubernetes**.
-- Modelado e integración de procesos de negocio (BPM) con **Camunda**.
-- Creación y mantenimiento de pipelines de integración continua (CI/CD) con **Jenkins**, **Harbor** y **Argo CD**.
-- Interacción con bases de datos **PostgreSQL** y **Oracle Database**.
-- Desarrollo de pruebas unitarias y de integración con **Mockito** y **JUnit**.
-
+# Noel Martínez — Software Engineer
 
 ## 🛠️ Tech Stack 
 
