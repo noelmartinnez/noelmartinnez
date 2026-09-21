@@ -139,7 +139,10 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/noelmartinnez/noelmartinnez/output/github-snake-dark.svg" width="90%" alt="contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noelmartinnez/noelmartinnez/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/noelmartinnez/noelmartinnez/output/github-snake.svg" width="90%" alt="contribution snake" />
+</picture>
 
 </div>
 
