@@ -32,7 +32,7 @@ Alicante, España  ·  Java + Spring Boot + IA aplicada  ·  Español (nativo) /
 
 &nbsp;&nbsp;Fine-tuning de modelos NER (PyTorch, Hugging Face) hasta **F1 90%**, y después capa de LLMs con Spring AI y Azure AI Foundry hasta **F1 99%** sobre más de 20 tipos de entidades.
 
-&nbsp;&nbsp;Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados para Kubernetes. Optimicé prompts midiendo precision, recall, latencia y coste.
+&nbsp;&nbsp;Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados para Kubernetes.
 
 <br/>
 </td>
@@ -103,7 +103,9 @@ Alicante, España  ·  Java + Spring Boot + IA aplicada  ·  Español (nativo) /
 
 &nbsp;&nbsp;TFG calificado con 9/10.
 
-&nbsp;&nbsp;Plataforma de alquiler de vehículos estilo Airbnb. Aplicación full-stack en Java, Spring Boot e Hibernate sobre PostgreSQL: publicación de vehículos, búsqueda, reserva por franjas horarias y precios dinámicos.
+&nbsp;&nbsp;Plataforma de alquiler de vehículos estilo Airbnb.
+
+&nbsp;Aplicación full-stack en Java, Spring Boot e Hibernate sobre PostgreSQL: publicación de vehículos, búsqueda, reserva por franjas horarias y precios dinámicos.
 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f89820" /> <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f" /> <img src="https://img.shields.io/badge/Hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=bcae79" /> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1" />
 
