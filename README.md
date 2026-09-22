@@ -42,7 +42,7 @@ Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados
 &nbsp;&nbsp;**SimplyData**<br/>
 &nbsp;&nbsp;<sub>Intelligent Document Processing para banca</sub>
 
-&nbsp;&nbsp;Microservicios Java junto a LLMs open-source (Qwen, Gemma) servidos con vLLM para extracción de información, en una plataforma en producción del sector bancario.
+Microservicios Java junto a LLMs open-source (Qwen, Gemma) servidos con vLLM para extracción de información, en una plataforma en producción del sector bancario.
 
 <br/>
 </td>
@@ -54,7 +54,7 @@ Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados
 &nbsp;&nbsp;**RPA documental**<br/>
 &nbsp;&nbsp;<sub>Automatización de trámites</sub>
 
-&nbsp;&nbsp;Microservicios Java y MySQL que transmitían XML a bots RPA en Node.js (Selenium, Puppeteer) que rellenaban los trámites web automáticamente.
+Microservicios Java y MySQL que transmitían XML a bots RPA en Node.js (Selenium, Puppeteer) que rellenaban los trámites web automáticamente.
 
 &nbsp;&nbsp;**~400 documentos al mes** y **~100 horas manuales ahorradas**.
 
@@ -66,9 +66,9 @@ Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados
 &nbsp;&nbsp;**HUNTERS**<br/>
 &nbsp;&nbsp;<sub>Intranet corporativa</sub>
 
-&nbsp;&nbsp;Microservicios en Java, Spring Boot y Spring Cloud sobre PostgreSQL y Oracle, con diseño de esquemas y optimización de consultas.
+Microservicios en Java, Spring Boot y Spring Cloud sobre PostgreSQL y Oracle, con diseño de esquemas y optimización de consultas.
 
-&nbsp;&nbsp;Modelado de procesos de negocio con Camunda (BPM), cobertura de tests hasta el **85%** (JUnit, Mockito), despliegue Docker sobre Kubernetes con Jenkins, Harbor y Argo CD.
+Modelado de procesos de negocio con Camunda (BPM), cobertura de tests hasta el **85%** (JUnit, Mockito), despliegue Docker sobre Kubernetes con Jenkins, Harbor y Argo CD.
 
 <br/>
 </td>
@@ -86,11 +86,11 @@ Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados
 
 &nbsp;&nbsp;**[ImgTwin](https://github.com/noelmartinnez/ImgTwin)**
 
-&nbsp;&nbsp;Detección y limpieza de imágenes duplicadas o similares.
+Detección y limpieza de imágenes duplicadas o similares.
 
-&nbsp;&nbsp;Extrae embeddings con MobileNet (TensorFlow), reduce dimensionalidad con PCA e indexa en FAISS para búsqueda de vecinos cercanos.
+Extrae embeddings con MobileNet (TensorFlow), reduce dimensionalidad con PCA e indexa en FAISS para búsqueda de vecinos cercanos.
 
-&nbsp;&nbsp;Incluye interfaz para revisar y borrar coincidencias, y corre en CPU sin necesidad de GPU.
+Incluye interfaz para revisar y borrar coincidencias, y corre en CPU sin necesidad de GPU.
 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab" /> <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=ff6f00" /> <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=0081fb" /> <img src="https://img.shields.io/badge/MIT-0d1117?style=flat-square&logo=opensourceinitiative&logoColor=a371f7" />
 
@@ -101,11 +101,11 @@ Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados
 
 &nbsp;&nbsp;**[AutoBnB](https://github.com/noelmartinnez/AutoBnB)**
 
-&nbsp;&nbsp;TFG calificado con 9/10.
+TFG calificado con 9/10.
 
-&nbsp;&nbsp;Plataforma de alquiler de vehículos estilo Airbnb.
+Plataforma de alquiler de vehículos estilo Airbnb.
 
-&nbsp;Aplicación full-stack en Java, Spring Boot e Hibernate sobre PostgreSQL: publicación de vehículos, búsqueda, reserva por franjas horarias y precios dinámicos.
+Aplicación full-stack en Java, Spring Boot e Hibernate sobre PostgreSQL: publicación de vehículos, búsqueda, reserva por franjas horarias y precios dinámicos.
 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f89820" /> <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f" /> <img src="https://img.shields.io/badge/Hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=bcae79" /> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1" />
 
