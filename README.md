@@ -30,9 +30,9 @@ Alicante, España  ·  Java + Spring Boot + IA aplicada  ·  Español (nativo) /
 &nbsp;&nbsp;**PrivacyShield**<br/>
 &nbsp;&nbsp;<sub>SaaS europeo de anonimización con IA</sub>
 
-&nbsp;&nbsp;Fine-tuning de modelos NER (PyTorch, Hugging Face) hasta **F1 90%**, y después capa de LLMs con Spring AI y Azure AI Foundry hasta **F1 99%** sobre más de 20 tipos de entidades.
+Fine-tuning de modelos NER (PyTorch, Hugging Face) hasta **F1 90%**, y después capa de LLMs con Spring AI y Azure AI Foundry hasta **F1 99%** sobre más de 20 tipos de entidades.
 
-&nbsp;&nbsp;Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados para Kubernetes.
+Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados para Kubernetes.
 
 <br/>
 </td>
