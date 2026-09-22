@@ -77,7 +77,7 @@ Modelado de procesos de negocio con Camunda (BPM), cobertura de tests hasta el *
 
 ---
 
-## Proyectos propios
+## Proyectos
 
 <table>
 <tr>
