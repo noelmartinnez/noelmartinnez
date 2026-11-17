@@ -32,14 +32,14 @@ Alicante, España  ·  Java + Spring Boot + IA aplicada  ·  Español (nativo) /
 
 Fine-tuning de modelos NER (PyTorch, Hugging Face) hasta **F1 90%**, y después capa de LLMs con Spring AI y Azure AI Foundry hasta **F1 99%** sobre más de 20 tipos de entidades.
 
-Lideré el backend: microservicios Java, Spring Boot, Kafka y MySQL, versionados para Kubernetes.
+Único desarrollador backend: diseñé y construí los microservicios Java con Spring Boot, Kafka y MySQL, versionados para Kubernetes.
 
 <br/>
 </td>
 <td width="50%" valign="top">
 <br/>
 
-&nbsp;&nbsp;**SimplyData**<br/>
+&nbsp;&nbsp;**SimplÿData**<br/>
 &nbsp;&nbsp;<sub>Intelligent Document Processing para banca</sub>
 
 Microservicios Java junto a LLMs open-source (Qwen, Gemma) servidos con vLLM para extracción de información, en una plataforma en producción del sector bancario.
@@ -118,58 +118,15 @@ Aplicación full-stack en Java, Spring Boot e Hibernate sobre PostgreSQL: public
 
 ## Competencias Técnicas
 
-```mermaid
-flowchart TB
-    CLIENT(["Cliente"]) --> EDGE
-
-    subgraph EDGE["Edge"]
-        direction LR
-        A1["APIs REST"] --- A2["Spring Security"]
-    end
-
-    EDGE --> SVC
-
-    subgraph SVC["Servicios"]
-        direction LR
-        B1["Spring Boot<br/>Spring Cloud"] --- B2["Camunda BPM"] --- B3["Bots RPA<br/>Node.js, Selenium, Puppeteer"]
-    end
-
-    SVC --> IA
-    SVC --> DATOS
-
-    subgraph IA["IA y LLMs"]
-        direction LR
-        C3["Fine-tuning NER<br/>PyTorch, Hugging Face"] --> C1["Spring AI<br/>Azure AI Foundry"] --> C2["vLLM<br/>Qwen, Gemma"]
-    end
-
-    subgraph DATOS["Datos y mensajeria"]
-        direction LR
-        D1["Kafka"] --> D2["MySQL, PostgreSQL, Oracle"]
-    end
-
-    SVC -.->|"build, test y despliegue"| PLAT
-
-    subgraph PLAT["Plataforma"]
-        direction LR
-        E1["Docker<br/>Kubernetes"] --- E2["Jenkins<br/>Argo CD, Harbor"] --- E3["JUnit<br/>Mockito"]
-    end
-
-    style EDGE fill:#0d1117,stroke:#58a6ff,color:#e6edf3
-    style SVC fill:#0d1117,stroke:#58a6ff,color:#e6edf3
-    style IA fill:#0d1117,stroke:#a371f7,color:#e6edf3
-    style DATOS fill:#0d1117,stroke:#8957e5,color:#e6edf3
-    style PLAT fill:#0d1117,stroke:#8957e5,color:#e6edf3
-```
-
 <div align="center">
 
 | | |
 |---|---|
-| **Lenguajes** | ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f89820) ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab) ![Node.js](https://img.shields.io/badge/JavaScript_(Node.js)-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-0d1117?style=flat-square&logo=spring&logoColor=6db33f) ![Spring Security](https://img.shields.io/badge/Spring_Security-0d1117?style=flat-square&logo=springsecurity&logoColor=6db33f) ![Hibernate](https://img.shields.io/badge/Hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=bcae79) ![Camunda](https://img.shields.io/badge/Camunda_(BPM)-0d1117?style=flat-square&logo=camunda&logoColor=fc5d0d) ![APIs REST](https://img.shields.io/badge/APIs_REST-0d1117?style=flat-square) ![Microservicios](https://img.shields.io/badge/Microservicios-0d1117?style=flat-square) |
+| **Lenguajes** | ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f89820) ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6db33f) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-0d1117?style=flat-square&logo=spring&logoColor=6db33f) ![Spring Security](https://img.shields.io/badge/Spring_Security-0d1117?style=flat-square&logo=springsecurity&logoColor=6db33f) ![Hibernate](https://img.shields.io/badge/Hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=bcae79) ![APIs REST](https://img.shields.io/badge/APIs_REST-0d1117?style=flat-square) ![Microservicios](https://img.shields.io/badge/Microservicios-0d1117?style=flat-square) |
 | **Datos y Mensajería** | ![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=e6edf3) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1) ![Oracle](https://img.shields.io/badge/Oracle-0d1117?style=flat-square&logo=oracle&logoColor=f80000) |
-| **IA y LLMs** | ![Spring AI](https://img.shields.io/badge/Spring_AI-0d1117?style=flat-square&logo=spring&logoColor=6db33f) ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078d4) ![vLLM](https://img.shields.io/badge/vLLM-0d1117?style=flat-square&logo=lightning&logoColor=ffd21e) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square) ![NER](https://img.shields.io/badge/NER-0d1117?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=ee4c2c) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=ffd21e) |
-| **DevOps, Testing y RPA** | ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326ce5) ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=d24939) ![Harbor](https://img.shields.io/badge/Harbor-0d1117?style=flat-square&logo=harbor&logoColor=60b932) ![Argo CD](https://img.shields.io/badge/Argo_CD-0d1117?style=flat-square&logo=argo&logoColor=ef7b4d) ![JUnit](https://img.shields.io/badge/JUnit-0d1117?style=flat-square&logo=junit5&logoColor=25a162) ![Mockito](https://img.shields.io/badge/Mockito-0d1117?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=43b02a) ![Puppeteer](https://img.shields.io/badge/Puppeteer-0d1117?style=flat-square&logo=puppeteer&logoColor=40b5a4) |
+| **IA y LLMs** | ![Spring AI](https://img.shields.io/badge/Spring_AI-0d1117?style=flat-square&logo=spring&logoColor=6db33f) ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078d4) ![vLLM](https://img.shields.io/badge/vLLM-0d1117?style=flat-square&logo=lightning&logoColor=ffd21e) ![NER](https://img.shields.io/badge/NER-0d1117?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=ee4c2c) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=ffd21e) |
+| **DevOps y Testing** | ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326ce5) ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=d24939) ![Argo CD](https://img.shields.io/badge/Argo_CD-0d1117?style=flat-square&logo=argo&logoColor=ef7b4d) ![JUnit](https://img.shields.io/badge/JUnit-0d1117?style=flat-square&logo=junit5&logoColor=25a162) ![Mockito](https://img.shields.io/badge/Mockito-0d1117?style=flat-square) |
 
 </div>
 
@@ -190,7 +147,7 @@ flowchart TB
 
 <div align="center">
 
-<a href="https://noelmartinez.es"><img src="https://img.shields.io/badge/noelmartinez.es-0d1117?style=for-the-badge&logo=googlechrome&logoColor=a371f7&labelColor=0d1117" /></a>   <a href="https://linkedin.com/in/noelmartinezpomares"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117" /></a>   <a href="mailto:noelmartinezpomares@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a371f7&labelColor=0d1117" /></a>
+<a href="https://www.noelmartinez.es/"><img src="https://img.shields.io/badge/noelmartinez.es-0d1117?style=for-the-badge&logo=googlechrome&logoColor=a371f7&labelColor=0d1117" /></a>   <a href="https://drive.google.com/file/d/1a4TgHtXmHOBbvQTAbyhsL8MfjAGcbPWv/view?usp=sharing"><img src="https://img.shields.io/badge/CV-0d1117?style=for-the-badge&logo=googledrive&logoColor=a371f7&labelColor=0d1117" /></a>   <a href="https://linkedin.com/in/noelmartinezpomares"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117" /></a>   <a href="mailto:noelmartinezpomares@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a371f7&labelColor=0d1117" /></a>
 
 <br/><br/>
 
